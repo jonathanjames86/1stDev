@@ -8,4 +8,4 @@ var journal = [];
 journal.push(dm11);
 journal.push(makeit);
 journal.push(tank);
-journal.push(animal)
+journal.push(animal);
