@@ -1,8 +1,8 @@
 var dm11 = "Let's rock and roll";
 
 var journal = [];
-var makeit = [];
-var tank = [];
+var makeit = "make it happen";
+var tank = "Frank";
 
 
 tank.push(dm11);
