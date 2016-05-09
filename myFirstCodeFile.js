@@ -1,7 +1,7 @@
 var dm11 = "Let's rock and roll";
 var makeit = "make it happen";
 var tank = "Frank";
-var animal = "dog"
+var animal = "dog";
 
 var journal = [];
 
