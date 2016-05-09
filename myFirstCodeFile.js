@@ -4,6 +4,6 @@ var tank = "Frank";
 
 var journal = [];
 
-tank.push(dm11);
-makit.push(dm11);
 journal.push(dm11);
+journal.push(makeit);
+journal.push(tank);
